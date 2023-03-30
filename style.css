@@ -1,0 +1,12 @@
+h3{
+    font-size: 25px !important;
+}
+.btn-primary:hover{
+    background-color: crimson;
+    font-size: 20px;
+}
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
